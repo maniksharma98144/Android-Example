@@ -1,0 +1,8 @@
+<resources>
+    <string name="name">Project</string>
+    <string name="activity1">Activity1</string>
+    <string name="activity2">Activity2</string>
+    <string name="click_me">Click Me!!</string>
+    <string name="todo">This is an Image</string>
+    <string name="enter_your_name">This is an Example</string>
+</resources>
